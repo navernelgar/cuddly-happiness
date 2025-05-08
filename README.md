@@ -88,3 +88,6 @@ GitHub에 뭔가 올린 것도, 이렇게 게시글 써보는 것도요.
 
 💬 Try it on ChatGPT → [Python Flow Visualizer](https://chatgpt.com/g/g-681c6c1b86548191bf22d66689b0689d-python-heureum-sigaghwa-doumi)
 📁 GitHub Repository → [navernelgar/cuddly-happiness](https://github.com/navernelgar/cuddly-happiness)
+
+
+📬 Got feedback? [Open an Issue](https://github.com/navernelgar/cuddly-happiness/issues) or [start a Discussion](https://github.com/navernelgar/cuddly-happiness/discussions)!
